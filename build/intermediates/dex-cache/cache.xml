@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="045be695d968dd707691cc55d23746dbf8cf569a">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_01787436787fe960b4bf1ba48a5a83c7eb732a82.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="032a4b53def5e2ceedfc2e793b126c0163cfa1dd">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_076585575a2c1291fe0b2c2191675d520df47cd2.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="45f5eda279825ff470e3f51019d374d1ef61e000">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-24.2.0_66e2d3333130799cadd128856a36ed9f257dac7b.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="fcc945a86ebcbf527429acb8216ec7dae2c06417">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-24.2.0_b96e6af4878b3f09a839d3a175e257cd92cc4abd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Alejandro\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_70fd805a05e1ed80d49b789af8d5919557e481f1.jar" />
+    </item>
+    <item
+        jar="E:\android-sdk-windows\extras\android\m2repository\com\android\support\support-annotations\24.2.0\support-annotations-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6be858a75633b1f0a2d24cad740db57775cb6871">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\support-annotations-24.2.0_a3cb25a6e59f1bf0e1d34c5a02f5a77fde13dbee.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f9b41622897665678d31d78e57a361cb0cebcb0d">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-24.2.0_90a7c25c5a879cbebfbc58fb575b8935e7c13a07.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\de.hdodenhof\circleimageview\2.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="a2af9c72ccaa4c5c049b500ca6ea664a4ce1f7d4">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\de.hdodenhof-circleimageview-2.1.0_57aadc24e0b865380cb374bbbf32c7236874fb5d.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c755536e5a100d9c76c8ea0b72f76c018f7a9de2">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-24.2.0_ec43880288fc48e7b33d633eb4f0bf5a6a8ec788.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="60d7b23621d31e6f42f4f76f16af467e57a20cda">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_e95c53b7b1d3b845e540096b67e669ffb520f0fc.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6e02e34594ebe9c0501ffda8dd48497f81b82977">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_24b707f937afe1e1d95ea1a8e2fa5e079cfe362e.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="96e33a7aaee00ab64270e2a9887b8f9ef32c8b73">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-cardview-v7-24.2.0_b739f3aebe51b31ae011f67226dce8bb0b545979.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-fragment\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="d8bd2268fdcbfd52c76ade65d9900cd8def93a44">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-24.2.0_0de23ebbf5325235c5aa291012a4874165382d15.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c84e216d9bf618464d6b9564d71d9a656433e7c4">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-24.2.0_6971dd70a2ecc65762cb780421db77158c6f75a1.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="beac40bcc8a320a896dd15f5109cfcaea5e1e0e3">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-24.2.0_a238a1d742a7d16febb303900c4c7054bf80002d.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="f3ee23ef25c9a8fe3d40246d0b7097267963a612">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-24.2.0_4fbe1e6d8696dae29ba32c09bb27c267097ee424.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="c3c638be6e650b165ab9ae144857b64e82787fad">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-24.2.0_3183070bf30ffc36dfc783de75c40c1a098b2def.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-compat\24.2.0\jars\libs\internal_impl-24.2.0.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="771b3cc0e597b54da25f8086ba73180c59c6bc71">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\internal_impl-24.2.0_4c18d38623546e599ca9112ac8cdd63c6105e802.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\design\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="23eb0d2998a782213b56168cbf23a0688b9111d9">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-design-24.2.0_f1f53c3ac13210a70c50baaebc16b790241b9966.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.roughike\bottom-bar\2.0.2\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="32534a05122d0c535cc8b885e45b1e7ce3b0f03e">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.roughike-bottom-bar-2.0.2_fe6d158c811b7492cab3ddc831991c5480e5c298.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.zoonref\simple-view-behavior\1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="72337187bb1a066aa3f679661bde7d8e78a09065">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.zoonref-simple-view-behavior-1.0_1748d611e768cb9f076c4a26d23021cb2ddfe7fe.jar" />
+    </item>
+    <item
+        jar="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\24.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="24.0.1"
+        sha1="6eb9107eb34d2fe2b020662b7fbbec991dcba846">
+        <dex dex="E:\CURSOS\PLATZI\Platzigram\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-24.2.0_fb62425bfbc02481c4eda4a42f455d2180035e67.jar" />
+    </item>
+
+</items>
