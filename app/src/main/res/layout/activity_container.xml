@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:fitsSystemWindows="true"
-    tools:context="py.puchi.platzigram.py.platzi.platzigram.view.ContainerActivity">
+    tools:context="py.puchi.platzigram.view.ContainerActivity">
 
     <FrameLayout
         android:id="@+id/container"
