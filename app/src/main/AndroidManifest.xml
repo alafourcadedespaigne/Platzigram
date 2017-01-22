@@ -1,40 +1,78 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="py.puchi.platzigram">
 
     <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <uses-feature
+        android:name="android.hardware.camera2"
+        android:required="false" />
 
     <application
+        android:name=".PlatziGramApplication"
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"
         android:label="@string/app_name"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name="py.puchi.platzigram.LoginActivity">
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/facebook_app_id" />
+
+        <provider
+            android:name="android.support.v4.content.FileProvider"
+            android:authorities="py.puchi.platzigram"
+            android:exported="false"
+            android:grantUriPermissions="true">
+            <meta-data
+                android:name="android.support.FILE_PROVIDER_PATHS"
+                android:resource="@xml/file_paths" />
+        </provider>
+
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            tools:replace="android:theme"
+            />
+
+        <activity android:name=".login.ui.LoginActivity">
+
+        </activity>
+        <activity
+            android:name=".view.CreateAccountActivity"
+            android:parentActivityName=".login.ui.LoginActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="py.puchi.platzigram.login.ui.LoginActivity" />
+        </activity>
+        <activity
+            android:name=".ReferenciaActivity"
+            android:label="@string/title_activity_referencia"
+            android:theme="@style/AppTheme" />
+        <activity android:name=".view.ContainerActivity" />
+        <activity
+            android:name=".view.PictureDetailActivity"
+            android:parentActivityName=".view.ContainerActivity">
+            >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="py.puchi.platzigram.view.ContainerActivity" />
+        </activity>
+        <activity
+            android:name=".view.FacebookActivity"
+            android:label="@string/title_activity_facebook"
+            android:theme="@style/AppTheme">
+
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
-        </activity>
-        <activity
-            android:name="py.puchi.platzigram.view.CreateAccountActivity"
-            android:parentActivityName="py.puchi.platzigram.LoginActivity">
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="py.puchi.platzigram.LoginActivity" />
-        </activity>
-        <activity
-            android:name="py.puchi.platzigram.ReferenciaActivity"
-            android:label="@string/title_activity_referencia"
-            android:theme="@style/AppTheme" />
-        <activity android:name="py.puchi.platzigram.view.ContainerActivity" />
-        <activity android:name="py.puchi.platzigram.view.PictureDetailActivity"
-            android:parentActivityName="py.puchi.platzigram.view.ContainerActivity">
-            >
-            <meta-data
-                android:name="android.support.PARENT_ACTIVITY"
-                android:value="py.puchi.platzigram.view.ContainerActivity" />
+
         </activity>
     </application>
 

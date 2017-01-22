@@ -12,11 +12,11 @@ import android.view.ViewGroup;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import py.puchi.platzigram.R;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
 
+import py.puchi.platzigram.R;
 import py.puchi.platzigram.model.Picture;
 import py.puchi.platzigram.view.PictureDetailActivity;
 

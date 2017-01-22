@@ -42,7 +42,7 @@ public class ProfileFragment extends Fragment {
         picturesRecycler.setLayoutManager(linearLayoutManager);
 
         PictureAdapterRecyclerView pictureAdapterRecyclerView =
-                new PictureAdapterRecyclerView(buidPictures(), py.puchi.platzigram.R.layout.cardview_picture, getActivity());
+                new PictureAdapterRecyclerView(buidPictures(),py.puchi.platzigram.R.layout.cardview_picture, getActivity());
         picturesRecycler.setAdapter(pictureAdapterRecyclerView);
 
         return view;

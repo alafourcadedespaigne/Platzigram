@@ -5,9 +5,12 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import py.puchi.platzigram.view.fragment.HomeFragment;
+import py.puchi.platzigram.posts.ui.HomeFragment;
 import py.puchi.platzigram.view.fragment.ProfileFragment;
 import py.puchi.platzigram.view.fragment.SearchFragment;
+
+import com.facebook.FacebookSdk;
+import com.facebook.appevents.AppEventsLogger;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnTabSelectListener;
 
@@ -22,6 +25,11 @@ public class ContainerActivity extends AppCompatActivity {
 
         BottomBar bottomBar = (BottomBar) findViewById(py.puchi.platzigram.R.id.bottombar);
         bottomBar.setDefaultTab(py.puchi.platzigram.R.id.home);
+
+
+        //Seteamos los valores del SDK de Facebook
+        FacebookSdk.sdkInitialize(getApplicationContext());
+        AppEventsLogger.activateApp(this);
 
         bottomBar.setOnTabSelectListener(new OnTabSelectListener() {
             @Override

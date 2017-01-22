@@ -16,4 +16,10 @@
     <string name="tab_home">Home</string>
     <string name="tab_profile">Me</string>
     <string name="secondword_detail">Me Gusta</string>
+    <string name="emailValidation">Entre la dirección de email</string>
+    <string name="requiredPassword">Debe de ingresar una contraseña</string>
+    <string name="equalsPassword">Las contraseñas no coinciden</string>
+    <string name="AuthFailure">Fallo la autenticación</string>
+    <string name="passwordRequired">Proporcione una contraseña</string>
+    <string name="loginFailure">Fallo la autenticación</string>
 </resources>
